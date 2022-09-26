@@ -1,0 +1,23 @@
+.scrollable{
+    overflow-y: scroll;
+    height: 200px;
+    background: #f8d0e6;
+    padding: 40px;
+  }
+  .buttons{
+    margin-left: 250px;
+  }
+h1{
+    padding: 10px 20px;
+    background: #004eff;
+    border: 0;
+    margin: 0 20px 20px 0;
+    font-size: 16px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover{
+    background: blue;
+  }
